@@ -100,7 +100,7 @@ public class RequestResponseExampleController {
         return ResponseEntity.noContent().build();
     }
 
-    /*
+    /******
      * Llamada desde Angular para eliminar un recurso
      * 
      * import { HttpClient } from '@angular/common/http';
